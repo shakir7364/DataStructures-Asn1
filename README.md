@@ -1,2 +1,2 @@
-# DataStructures-Asn1
- Data Structures Assignment 1
+# Data Structures Assignment 1
+This assignment is to write a MyLibrary class with four methods that display a row of characters, get user input recursively, reverse an array recursively, and reverse a string recursively.
